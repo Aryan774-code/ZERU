@@ -1,0 +1,11 @@
+credit-score/
+│
+├── creditscore/
+│   ├── __init__.py
+│   ├── scorer.py
+│
+├── cli.py
+├── requirements.txt
+├── user-wallet-transactions.json
+├── example_notebook.ipynb
+└── README.md
